@@ -1,0 +1,6 @@
+{
+  "name": "MLDataset",
+  "tagline": "Python class defining a machine learning dataset ensuring key-based correspondence and maintaining integrity",
+  "body": "### MLDataset\r\n\r\nPython class defining a machine learning dataset ensuring key-based correspondence and maintaining integrity.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
